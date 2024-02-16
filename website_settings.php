@@ -1,0 +1,6 @@
+<?php
+
+$displayTeachersPerPage = 12;
+
+
+?>
