@@ -638,7 +638,7 @@
 		</div>
 		<div id="backtotop"><a href="#"></a></div>
 	</div>
-	<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<!-- <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 	<script type="text/javascript" src="scripts/jquery-3.4.1.min.js"></script>
 	<script type="text/javascript" src="scripts/jquery-migrate-3.1.0.min.js"></script>
 	<script type="text/javascript" src="scripts/mmenu.min.js"></script>
@@ -657,7 +657,8 @@
 	<script src="scripts/leaflet-listeo.js"></script>
 	<script src="scripts/leaflet-autocomplete.js"></script>
 	<script src="scripts/leaflet-control-geocoder.js"></script>
-	<script type="text/javascript" src="scripts/typed.js"></script>
+	<script type="text/javascript" src="scripts/typed.js"></script> -->
+	<script src="app.js"></script>
 	<script>
 		var typed = new Typed('.typed-words', {
 			strings: ["Matematik", "Yazılım", "Grafik"],
