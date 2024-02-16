@@ -1,4 +1,4 @@
-console.log('emirhan');
+console.log('murat');
 function changePage(newContentPhpQuery) {
     const url = 'teachers_page_filters.php?'+newContentPhpQuery;
     const options = {
