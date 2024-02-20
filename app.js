@@ -1,16 +1,15 @@
-console.log('emirhan erbilll jfklşdsajfkdşlsafjkl');
+console.log("sdfjds");
 function changePage(newContentPhpQuery) {
-    const url = 'teachers_page_filters.php?'+newContentPhpQuery;
-    const options = {
-        method : 'GET'
-    }
-    fetch(url, options)
-    .then(res => res.json())
-    .then(data => {
-        console.log(data)
+  const url = "teachers_page_filters.php?" + newContentPhpQuery;
+  const options = {
+    method: "GET",
+  };
+  fetch(url, options)
+    .then((res) => res.json())
+    .then((data) => {
+      console.log(data);
     })
-    .catch(err => console.log(err))
+    .catch((err) => console.log(err));
 
-
-    console.log(newContentPhpQuery);
+  console.log(newContentPhpQuery);
 }
