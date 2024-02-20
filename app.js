@@ -1,4 +1,4 @@
-console.log('emirhan v22');
+console.log('emirhan erbilll jfklşdsajfkdşlsafjkl');
 function changePage(newContentPhpQuery) {
     const url = 'teachers_page_filters.php?'+newContentPhpQuery;
     const options = {
